@@ -9,9 +9,8 @@ Make sure you create a Github repo and commit this code!
 Generate the good / bad phrase randomly from a list of predefined phrases
 Use the twitter package inside the response to also return a random tweet!
 ## Class work -2 
-* Create a web app using Express that has 5 routes
-  * Home
-  * Login Page
-  * Account Page
-  * Help Page
-* If a user correctly logs in, send them to the Account Page (the correct credentials are whatever you want)
+Create a website with 4 routes:
+-Home
+-Favorite Food
+-Favorite Movies
+-Favorite CSS Frameworks
