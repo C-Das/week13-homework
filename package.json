@@ -1,0 +1,27 @@
+{
+  "name": "week13",
+  "version": "1.0.0",
+  "description": "Create an app that has two web servers. One that listens on port 7000 and one that listens on port 7500. The one listening on port 7000 will always tell the user something good about themselves. The one listening on 7500 will always tell the user something bad about themselves. Make sure you create a Github repo and commit this code! ** Bonus **",
+  "main": "express.js",
+  "dependencies": {
+    "body-parser": "^1.15.0",
+    "express": "^4.13.4",
+    "https": "^1.0.0",
+    "url": "^0.11.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node server3.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/C-Das/week13-homework.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/C-Das/week13-homework/issues"
+  },
+  "homepage": "https://github.com/C-Das/week13-homework#readme"
+}
