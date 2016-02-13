@@ -14,3 +14,10 @@ Create a website with 4 routes:
 -Favorite Food
 -Favorite Movies
 -Favorite CSS Frameworks
+## Class Work-3
+* Create a web app using Express that has 5 routes
+  * Home
+  * Login Page
+  * Account Page
+  * Help Page
+* If a user correctly logs in, send them to the Account Page (the correct credentials are whatever you want)
