@@ -35,3 +35,9 @@ In the navbar, have a login link. Clicking login should open a bootstrap modal t
 
 Make this look good!
 On the Registration form, use JavaScript / jQuery to ensure all fields are filled out before POSTing the form
+
+## Class Work-5
+
+* On the Dashboard page from earlier, add a list of Github usernames for 10 of your classmates
+
+* Clicking a username should get all of the info associate with that users account (i.e. company, followers, photo url) and return the JSON to the browser
